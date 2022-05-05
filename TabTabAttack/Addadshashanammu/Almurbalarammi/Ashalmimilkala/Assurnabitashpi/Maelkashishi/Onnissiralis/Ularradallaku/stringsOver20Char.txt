@@ -1,0 +1,15 @@
+/lib64/ld-linux-x86-64.so.2
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+*ZAP!* picoCTF{l3v3l_up!_t4k3_4_r35t!_524e3dc4}
+GCC: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+deregister_tm_clones
+__do_global_dtors_aux
+__do_global_dtors_aux_fini_array_entry
+__frame_dummy_init_array_entry
+fang-of-haynekhtnamet.c
+_GLOBAL_OFFSET_TABLE_
+_ITM_deregisterTMCloneTable
+__libc_start_main@@GLIBC_2.2.5
+_ITM_registerTMCloneTable
+__cxa_finalize@@GLIBC_2.2.5
